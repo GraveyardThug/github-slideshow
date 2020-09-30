@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Light travels faster than sound. This is why some people appear bright until you hear them speak.
 Use the left arrow to go back!
